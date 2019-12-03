@@ -24,6 +24,8 @@ encoding: UTF-8
 sass:
   style: compressed
 
+destination: docs
+
 plugins:
   - jekyll-paginate
   - jekyll/tagging
