@@ -5,21 +5,10 @@
     <description>This is a personal note</description>
     <link>https://note.richardhong.com/</link>
     <atom:link href="https://note.richardhong.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Dec 2019 22:36:46 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2019 22:36:46 +0800</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2019 22:43:02 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2019 22:43:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
-    
-      <item>
-        <title>Hello World</title>
-        <description>&lt;p&gt;Hello world again!&lt;/p&gt;
-
-&lt;p&gt;This is a test.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Dec 2019 00:00:00 +0800</pubDate>
-        <link>https://note.richardhong.com/2019/12/03/testing/</link>
-        <guid isPermaLink="true">https://note.richardhong.com/2019/12/03/testing/</guid>
-      </item>
     
       <item>
         <title>不可以乱指挥</title>
@@ -72,17 +61,6 @@
         <guid isPermaLink="true">https://note.richardhong.com/2019/11/29/hello-again/</guid>
       </item>
     
-      <item>
-        <title>Testing post</title>
-        <description>&lt;p&gt;ello world again!&lt;/p&gt;
-
-&lt;p&gt;hey hey&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Apr 2019 00:00:00 +0800</pubDate>
-        <link>https://note.richardhong.com/2019/04/05/test/</link>
-        <guid isPermaLink="true">https://note.richardhong.com/2019/04/05/test/</guid>
-      </item>
-    
 
     
       
@@ -102,10 +80,6 @@
             <link>https://note.richardhong.com/about.html</link>
           </item>
         
-      
-    
-      
-    
       
     
       
