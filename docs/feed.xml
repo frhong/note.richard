@@ -3,10 +3,10 @@
   <channel>
     <title>Richard.H's Note</title>
     <description>This is a personal note</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Dec 2019 23:42:08 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 23:42:08 +0800</lastBuildDate>
+    <link>https://note.richardhong.com/</link>
+    <atom:link href="https://note.richardhong.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Dec 2019 23:46:59 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 23:46:59 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
 
     
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Tue, 03 Dec 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/12/03/music-rethink/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/03/music-rethink/</guid>
+        <link>https://note.richardhong.com/2019/12/03/music-rethink/</link>
+        <guid isPermaLink="true">https://note.richardhong.com/2019/12/03/music-rethink/</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Mon, 02 Dec 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/12/02/random-order/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/02/random-order/</guid>
+        <link>https://note.richardhong.com/2019/12/02/random-order/</link>
+        <guid isPermaLink="true">https://note.richardhong.com/2019/12/02/random-order/</guid>
       </item>
     
       <item>
@@ -61,8 +61,8 @@
 &lt;center&gt; ～ End ～ &lt;/center&gt;
 </description>
         <pubDate>Fri, 29 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/11/29/hello-again/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/29/hello-again/</guid>
+        <link>https://note.richardhong.com/2019/11/29/hello-again/</link>
+        <guid isPermaLink="true">https://note.richardhong.com/2019/11/29/hello-again/</guid>
       </item>
     
 
@@ -81,7 +81,7 @@
 
 &lt;p&gt;关于博主，白天大部分时间在 Fintech 行业，工作之外，希望在网络上学习一些东西。热衷技术，设计，并向生活提问“为什么”。&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>https://note.richardhong.com/about.html</link>
           </item>
         
       
