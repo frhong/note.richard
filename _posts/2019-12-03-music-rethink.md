@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 音乐生意的另外一个角度
-tags: [Music,Pod-thought, PrivateEquity]
+tags: [Music, Pod-thought, PrivateEquity]
 image: '/images/posts/musicbiz.jpg'
 ---
 
