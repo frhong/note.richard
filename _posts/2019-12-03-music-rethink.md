@@ -2,7 +2,7 @@
 layout: post
 title: 音乐生意的另外一个角度
 tags: [Music, Pod-thought, PrivateEquity]
-image: '/images/posts/musicbiz.jpg'
+image: '/images/posts/music-biz.jpg'
 ---
 
 Taylor Swift 最近热度又上去了。刚出道的时候是在 Nashville 被 [Big Machine Records][Big Machine Records] 给物色中的。刚出道的时候，谁都不知道自己会有多红。就连唱片公司，也不敢去想。但当 Taylor 红起来之后，才发现之前签的合约，太长了。红起来之后，发现亏大了。直到 2017 年才从能从 BMR 出来，和业内巨头 Universal Music Group 签约。
