@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About ｜ 关于
-image: '/images/pages/about.jpeg'
+image: '/images/pages/about.jpg'
 ---
 
 点击到这个页面，估计您的好奇心还是有一些的。（据说这个页面不容易被点到）
