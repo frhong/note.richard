@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 贤哥回信了
-tags: [letter, shantou]
+tags: [公开信, 汕头]
 image: '/images/posts/2017-xiange-reply.jpg'
 ---
 

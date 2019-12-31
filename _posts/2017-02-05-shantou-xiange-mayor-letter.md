@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 贤哥，我们挺你！（致陈书记的一封信）
-tags: [letter, shantou]
+tags: [汕头, 公开信]
 image: '/images/posts/2017-letter-xiange.jpg'
 ---
 
